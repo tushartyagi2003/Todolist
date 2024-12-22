@@ -33,6 +33,8 @@ function App() {
     <>
      {/* <Counter/> */}
 
+     <h1>TUSHAR TYAGI</h1>
+
      <InputTask addTask ={addTask} />
       <div>
         <ul>

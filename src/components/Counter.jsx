@@ -19,6 +19,8 @@ const Counter = () => {
          <p>Count: {count}</p>
         <button onClick={handleIncrement}>INCREASE</button>
         <button onClick={handleDecrement}>DECREASE</button>
+        
+
     </>
     
   )
